@@ -12,4 +12,4 @@ The weatherApp is an application that allows the users to check date, local time
 ![screenrecording](https://user-images.githubusercontent.com/54782664/88877972-a71d9c00-d1db-11ea-942c-4c89d50a6585.gif)
 
 # Note
-You may need to add new scheme in order to run the application.
+You may need to add new scheme in order to run the application and set default location to something else (not none).
